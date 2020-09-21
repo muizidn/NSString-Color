@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "NSString+Color"
+  s.name         = "NSString_Color"
   s.version      = "1.1.4"
   s.summary      = "UIColor creation from NSString"
   s.description  = <<-DESC
